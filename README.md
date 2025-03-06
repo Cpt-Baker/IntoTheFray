@@ -37,3 +37,14 @@ I didn't have much time to tweak the AI, so it's really hard to destroy them wit
 Warning: This is a prototype so there are quite a few bugs
 At the moment there isn't a barrier blocking you from leaving the map so trying staying in bounds
 
+
+Credits
+● Explosion Effect: Tvtig RocketLauncher.
+● Textures: PolyHaven, Textures.com.
+● Audio: FreeSound
+● Background Music: ZapSplat.
+● Outline Effect: Quick Outline.
+● ProBuilder: Unity Registry
+● SimBlend Audio Editor: Audio editor built into Unity, easier than using audacity for every audio clip
+● All models were made by me
+
