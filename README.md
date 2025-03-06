@@ -1,16 +1,27 @@
 # IntoTheFray
 This is a fast-paced aerial combat game developed over the course of a semester. The project was built using Unity and features a fully implemented Finite State Machine (FSM) for AI, dynamic dogfighting mechanics, and a functional HUD. It's not perfect by any means, but it's something I might come back to in the future
 
+
 **Controls & How to Win**
+
 ~ Controls:
 W / S – Pitch Down / Up
+
 A / D – Roll Left / Right
+
 Q / E – Yaw Left / Right
+
 Left Shift – Increase Throttle
+
 Space – Decrease Throttle
+
 Mouse Left Click – Fire Machine Gun
+
 Mouse Right Click – Fire Missile
+
 Esc – Pause Menu
+
+
 
 ~ How to Win:
 The objective is to destroy all supply depots, with the option of eliminating enemy jets (Not recommended)
