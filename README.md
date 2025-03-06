@@ -21,7 +21,7 @@ Mouse Right Click – Fire Missile
 
 Esc – Pause Menu
 
-
+Use Keys: 1, 2, 3, 4 to switch between different camera angles
 
 ~ How to Win:
 The objective is to destroy all supply depots, with the option of eliminating enemy jets (Not recommended)
@@ -33,3 +33,7 @@ The game is won when you successfully complete all 3 levels.
 
 
 I didn't have much time to tweak the AI, so it's really hard to destroy them without dying, so my best advice is to just fly away and focus on destroying all the supply depots.
+
+Warning: This is a prototype so there are quite a few bugs
+At the moment there isn't a barrier blocking you from leaving the map so trying staying in bounds
+
